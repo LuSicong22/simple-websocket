@@ -4,8 +4,7 @@
 
 This repository contains a simple example demonstrating how to implement WebSocket communication using Node.js on the server-side and JavaScript on the client-side. WebSockets enable real-time bidirectional communication between clients and servers, making them ideal for applications that require instant updates and interactions.
 
-**Relevant technical blog:**
-
+**Relevant technical blog:** <br/>
 https://mirror.xyz/0x6a0A7dcAdbDd4862c9A7637119e379EC04ddFeec/b0-tGjCccuYas64zaJ9K0zq4giQTgmChDj680XxnPqo
 
 ## Getting Started
