@@ -15,13 +15,13 @@ To run the example code, follow these steps:
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/example/websocket-example.git
+git clone https://github.com/LuSicong22/simple-websocket.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd websocket-example
+cd simple-websocket
 ```
 
 3. Install the required dependencies:
